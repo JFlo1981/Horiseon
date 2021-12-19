@@ -71,6 +71,8 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    /* added correct background-color */
+    background-color: #d9dcd6;
 }
 /* Hero Style End */
 
@@ -101,7 +103,7 @@ p {
     background-color: #2589bd;
 }
 
-/* re-ordered benefir-lead, benefit-brand and benefit cost to follows sementics*/
+/* re-ordered benefit-lead, benefit-brand and benefit cost to follows sementics*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
